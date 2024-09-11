@@ -4,3 +4,8 @@
 git add .
 git commit -m "완료 메시지"
 ```
+## 팀원 코드 추가 작업
+```python
+import re
+print("hello world~")
+```
